@@ -22,6 +22,7 @@ header {
 }
 
 #page-logo a {
+    margin-left: 23px;
     padding: 10px;
     font-family: "Oleo Script", sans-serif;
     color: rgb(245, 243, 160);
